@@ -1,1 +1,0 @@
-# DevOps-Pre-Requisite
